@@ -32,3 +32,9 @@ Workflow notes.
     - add passport into indexjs and passport config
     - setup express-session and initialize passport middleware
     - build passport.js
+
+
+9. Building User model (should be done earlier)
+    - create a models folder
+    - create User.js
+    - import Mongoose and build UserSchema
