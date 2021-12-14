@@ -33,6 +33,9 @@ Workflow notes.
     - setup express-session and initialize passport middleware
     - build passport.js
 
+9. Setup login with Google Auth
+    - create auth routes folder with GET for auth and callback
+    -
 
 9. Building User model (should be done earlier)
     - create a models folder
